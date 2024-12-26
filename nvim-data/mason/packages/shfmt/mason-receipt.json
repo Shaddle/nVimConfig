@@ -1,0 +1,1 @@
+{"primary_source":{"type":"registry+v1","id":"pkg:github/mvdan/sh@v3.10.0"},"links":{"opt":{},"bin":{"shfmt.cmd":"shfmt_v3.10.0_windows_amd64.exe"},"share":{}},"metrics":{"start_time":1735189801606,"completion_time":1735189803055},"secondary_sources":[],"schema_version":"1.1","name":"shfmt"}
